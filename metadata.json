@@ -1,0 +1,6 @@
+{
+  "name": "RetroNotion — Creador de Widgets Gamificados",
+  "description": "Creador de widgets retro y gamificados para Notion con seguimiento por fecha límite, ritmo en tiempo real, mascota evolutiva, sonido Web Audio y exportación HTML vainilla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
